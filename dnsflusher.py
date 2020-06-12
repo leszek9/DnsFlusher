@@ -1,5 +1,5 @@
 # DnsFlusher 0.02
-# https://github.com/leszek9/DnsFlusher
+# https://github.com/perdubaro/DnsFlusher
 
 
 import time
